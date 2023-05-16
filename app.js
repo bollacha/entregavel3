@@ -2,7 +2,7 @@ var express = require('express');
 var app = express();
 
 app.get('/', function(req, res) {
-  res.send('Todo azar para pobre é pouco =D');
+  res.send('BEM VINDO AO MUNDO T.I!!!');
 });
 
 var port = 3001;
